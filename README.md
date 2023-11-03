@@ -3,3 +3,8 @@
 ![tests](https://github.com/gouniverse/htmlutils/workflows/tests/badge.svg)
 
 Various utility functions for HTML.
+
+- MinCSS
+- MinHTML
+- ScriptsHTML
+- StylesHTML
