@@ -1,7 +1,6 @@
 module github.com/gouniverse/htmlutils
 
-go 1.23
-toolchain go1.24.1
+go 1.25.0
 
 require github.com/tdewolff/minify/v2 v2.21.3
 
@@ -25,11 +24,11 @@ require (
 	github.com/mingrammer/cfmt v1.1.0 // indirect
 	github.com/samber/lo v1.47.0 // indirect
 	github.com/spf13/cast v1.7.1 // indirect
-	golang.org/x/crypto v0.35.0 // indirect
-	golang.org/x/net v0.36.0 // indirect
-	golang.org/x/sys v0.30.0 // indirect
-	golang.org/x/term v0.29.0 // indirect
-	golang.org/x/text v0.22.0 // indirect
+	golang.org/x/crypto v0.52.0 // indirect
+	golang.org/x/net v0.54.0 // indirect
+	golang.org/x/sys v0.45.0 // indirect
+	golang.org/x/term v0.43.0 // indirect
+	golang.org/x/text v0.37.0 // indirect
 )
 
 require (
